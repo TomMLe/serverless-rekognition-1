@@ -10,8 +10,8 @@ A web application that allows users to easily manage and analyze their collectio
 ## Back end: 
 Take advantage of the scalability and price effieciency of AWS serverless architecture.
 * Storage: S3, DynamoDB 
-* Compute: API Gateway, Lambda
+* API & Compute: API Gateway, Lambda
 * Authentication: Cognito
-* DNS: Route53
+* DNS & CDN: Route53, Cloudfront
 * Machine Learning: Rekognition API
 * Helper package(s): serverless, api-cli-test
