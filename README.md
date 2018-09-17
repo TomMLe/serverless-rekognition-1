@@ -1,5 +1,5 @@
 # Photo Reader Front end
-__Link__ : <www.read.photos>
+__Link__ : www.read.photos
 
 A web application that allows users to easily manage and analyze their collection of photos. Each photo is analyzed by AWS Rekognition. The result is the users will receive labels describing the photo. For students or any one who wants to get the texts in the picture, the application also produces any detected text.
 
